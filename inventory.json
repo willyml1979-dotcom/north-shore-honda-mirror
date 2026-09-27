@@ -1,6 +1,6 @@
 {
   "dealership": "North Shore Honda",
-  "generated_at": "2026-09-26T19:34:59",
+  "generated_at": "2026-09-26T20:16:29",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -138,6 +138,46 @@
       "condition": "used"
     },
     {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H78VH200382",
+      "stock": "H127103",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/f33f866bb525.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39163790?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39163790?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:10:26",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H51VH200268",
+      "stock": "H127102",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/860000668997.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39171155?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39171155?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:10:45",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H76VH200381",
+      "stock": "H127103",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/16441794b6d7.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:11:04",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H76VH200378",
+      "stock": "H127103",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/f6631847e1e3.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191896?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191896?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:11:23",
+      "condition": "new"
+    },
+    {
       "name": "HR-V LX 4WD2027 Honda",
       "vin": "3CZRZ2H35VM102609",
       "stock": "H127126",
@@ -168,16 +208,6 @@
       "condition": "new"
     },
     {
-      "name": "HR-V SPORT2027 Honda",
-      "vin": "3CZRZ2H55VM100585",
-      "stock": "H127205",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/f37f9ff86911.html",
-      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38741099?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38741099?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:04:48",
-      "condition": "new"
-    },
-    {
       "name": "HR-V LX 4WD2027 Honda",
       "vin": "3CZRZ2H34VM103251",
       "stock": "H127132",
@@ -189,32 +219,12 @@
     },
     {
       "name": "HR-V SPORT2027 Honda",
-      "vin": "3CZRZ2H53VM104702",
-      "stock": "H127147",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/10e5f6fdc92a.html",
-      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953767?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953767?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:05:26",
-      "condition": "new"
-    },
-    {
-      "name": "HR-V SPORT2027 Honda",
       "vin": "3CZRZ2H5XVM104762",
       "stock": "H127147",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/63a129a2afa8.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953768?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953768?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:05:45",
-      "condition": "new"
-    },
-    {
-      "name": "HR-V SPORT2027 Honda",
-      "vin": "3CZRZ2H51VM104987",
-      "stock": "H127149",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/f538cbf241ab.html",
-      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953769?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953769?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:06:03",
       "condition": "new"
     },
     {
@@ -235,16 +245,6 @@
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959502?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959502?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:06:40",
-      "condition": "new"
-    },
-    {
-      "name": "HR-V SPORT2027 Honda",
-      "vin": "3CZRZ2H53VM105008",
-      "stock": "H127150",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/be953f063391.html",
-      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38974696?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38974696?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T20:06:58",
       "condition": "new"
     },
     {
