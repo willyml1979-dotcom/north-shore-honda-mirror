@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Honda",
-  "generated_at": "2026-10-22T15:46:22",
-  "vehicle_count": 1315,
+  "generated_at": "2026-10-22T15:59:08",
+  "vehicle_count": 1317,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13728,6 +13728,18 @@
     },
     {
       "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F28VH100013",
+      "stock": "27H010",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/afff66686a4f.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/civic/2027-honda-civic-id39383851",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/civic/2027-honda-civic-id39383851?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T15:53:40",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic LX2027 Honda",
       "vin": "2HGFE2F27VH100360",
       "stock": "27H032",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/19bf4297e2bc.html",
@@ -13858,7 +13870,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/ecde9daeb9c7.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38301347",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38301347?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:39:28",
+      "last_verified": "2026-10-22T15:54:18",
       "odometer_km": 1230,
       "condition": "new",
       "city": "North Vancouver",
@@ -13871,7 +13883,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/8d571e86dcd8.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38348372",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38348372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:39:47",
+      "last_verified": "2026-10-22T15:54:40",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13883,7 +13895,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/7eba0fb6a743.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38348373",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38348373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:40:06",
+      "last_verified": "2026-10-22T15:55:00",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13895,7 +13907,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/82ee61c9ba71.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38505405",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38505405?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:40:24",
+      "last_verified": "2026-10-22T15:55:20",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13907,7 +13919,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/a4d09b5003c9.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38515746",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38515746?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:40:44",
+      "last_verified": "2026-10-22T15:55:40",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13919,7 +13931,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/d8fdb4f74832.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38599071",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38599071?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:41:04",
+      "last_verified": "2026-10-22T15:56:01",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13931,7 +13943,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/57d97df7b382.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635634",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635634?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:41:40",
+      "last_verified": "2026-10-22T15:56:20",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13943,7 +13955,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/7b3ef81702e5.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635635",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635635?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:42:00",
+      "last_verified": "2026-10-22T15:56:38",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13955,7 +13967,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/ac7f21edb60c.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38657071",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38657071?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:42:19",
+      "last_verified": "2026-10-22T15:57:01",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13967,7 +13979,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/59c4a224ad1c.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38834936",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38834936?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:42:37",
+      "last_verified": "2026-10-22T15:57:21",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13979,7 +13991,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/d95506815508.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38853331",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38853331?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:42:56",
+      "last_verified": "2026-10-22T15:57:41",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13991,7 +14003,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/6283fc93a8d4.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860734",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860734?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:43:34",
+      "last_verified": "2026-10-22T15:57:59",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -14003,7 +14015,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/ba8fc87a5334.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860735",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860735?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:43:52",
+      "last_verified": "2026-10-22T15:58:18",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -14015,7 +14027,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/d4271b465113.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38908537",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38908537?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:44:12",
+      "last_verified": "2026-10-22T15:58:37",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -14027,7 +14039,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/def2185089ad.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38908544",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38908544?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:44:30",
+      "last_verified": "2026-10-22T15:58:56",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -14556,6 +14568,18 @@
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192010",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192010?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T08:59:16",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H52VH200053",
+      "stock": "H27065",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/c5741120bd2e.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192011",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192011?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T15:53:59",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
