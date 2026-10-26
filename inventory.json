@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Honda",
-  "generated_at": "2026-10-26T03:59:38",
-  "vehicle_count": 1277,
+  "generated_at": "2026-10-26T04:11:50",
+  "vehicle_count": 1270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -5762,12 +5762,6 @@
     },
     {
       "name": "Accord Hybrid TOURING2026 Honda",
-      "vin": "1HGCY2F83TA801777",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/b406245e925e.html",
-      "condition": "new"
-    },
-    {
-      "name": "Accord Hybrid TOURING2026 Honda",
       "vin": "1HGCY2F85TA801831",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/75baf79828e6.html",
       "condition": "new"
@@ -6034,12 +6028,6 @@
       "name": "Civic Hybrid Sport Touring2027 Honda",
       "vin": "2HGFE4F94VH000452",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/05302def75ff.html",
-      "condition": "new"
-    },
-    {
-      "name": "Civic Hybrid Sport Touring2027 Honda",
-      "vin": "2HGFE4F94VH000080",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/d0b6da435445.html",
       "condition": "new"
     },
     {
@@ -6488,12 +6476,6 @@
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
-      "vin": "2HKRS6H51VH200058",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/b9e1addb11eb.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
       "vin": "2HKRS6H50VH200262",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/8cbf63297f0b.html",
       "condition": "new"
@@ -6555,19 +6537,19 @@
     {
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
       "vin": "2HKRS6H76VH200381",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/9a2c2c5712ad.html",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/da04761ae43c.html",
       "condition": "new"
     },
     {
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
-      "vin": "2HKRS6H76VH200378",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/29179292b34e.html",
+      "vin": "2HKRS6H76VH200381",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/9a2c2c5712ad.html",
       "condition": "new"
     },
     {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H92VH200220",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/ea40b13e1fd9.html",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/b34ee66d6dbd.html",
       "condition": "new"
     },
     {
@@ -6877,18 +6859,6 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
-      "vin": "2HKRS6H50VH204537",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/ef12f8240994.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
-      "vin": "2HKRS6H98VH204787",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/8891a71f99ec.html",
-      "condition": "new"
-    },
-    {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H9XVH205262",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/f20bd3d35d18.html",
@@ -7124,12 +7094,6 @@
     },
     {
       "name": "CR-V LX AWD2026 Honda",
-      "vin": "2HKRS4H26TH117751",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/6fb4952882d6.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V LX AWD2026 Honda",
       "vin": "2HKRS4H25TH117756",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/d11a25d079bc.html",
       "condition": "new"
@@ -7333,12 +7297,6 @@
       "condition": "new"
     },
     {
-      "name": "HR-V EX-L2027 Honda",
-      "vin": "3CZRZ2H73VM107679",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/d004d2d6b1b7.html",
-      "condition": "new"
-    },
-    {
       "name": "HR-V SPORT2027 Honda",
       "vin": "3CZRZ2H53VM107387",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/a74ca24c795f.html",
@@ -7462,12 +7420,6 @@
       "name": "Odyssey Sport-L2027 Honda",
       "vin": "5FNRL6H74VB500061",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/765adea9193b.html",
-      "condition": "new"
-    },
-    {
-      "name": "Odyssey Black Edition2027 Honda",
-      "vin": "5FNRL6H08VB500695",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/728c6b122c00.html",
       "condition": "new"
     },
     {
@@ -7702,6 +7654,12 @@
       "name": "Pilot TOURING2026 Honda",
       "vin": "5FNYG1H74TB506247",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/6250eaa9cfc7.html",
+      "condition": "new"
+    },
+    {
+      "name": "Pilot TRAILSPORT2026 Honda",
+      "vin": "5FNYG1H61TB505645",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/new/9103aa524ba1.html",
       "condition": "new"
     },
     {
