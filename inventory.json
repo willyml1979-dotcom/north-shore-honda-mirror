@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Honda",
-  "generated_at": "2026-11-17T01:08:46",
-  "vehicle_count": 1394,
+  "generated_at": "2026-11-17T21:22:26",
+  "vehicle_count": 1391,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -240,6 +240,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX Platinum Elite A-Spec AWD2024 Acura",
+      "vin": "5J8TC2H85RL800977",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/0f728372906a.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec AWD2025 Acura",
       "vin": "5J8TC2H6XSL802339",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/1da1a3e0f3d8.html",
@@ -283,14 +289,6 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/e01b26e00e81.html",
       "condition": "used",
       "price": 12612.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "DB92007 Aston Martin",
-      "vin": "SCFAD01A87GA07817",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/86895c3a0436.html",
-      "condition": "used",
-      "price": 42797.0,
       "price_currency": "CAD"
     },
     {
@@ -357,6 +355,12 @@
       "name": "Q5 Progressiv 45 TFSI quattro 7sp S Tronic2024 Audi",
       "vin": "WA1EAAFY1R2007637",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/922f4f784ddf.html",
+      "condition": "used"
+    },
+    {
+      "name": "Q5 Progressiv 45 TFSI quattro 7sp S Tronic2024 Audi",
+      "vin": "WA1EAAFY8R2096770",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/11648a6c8bf0.html",
       "condition": "used"
     },
     {
@@ -471,6 +475,12 @@
       "name": "S3 Progressiv quattro 7sp S tronic2024 Audi",
       "vin": "WAUH3CGY6RA116167",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/3dbafa8a7c00.html",
+      "condition": "used"
+    },
+    {
+      "name": "S5 3.0T Technik quattro 8sp Tiptronic Cpe2020 Audi",
+      "vin": "WAUR4AF51LA002484",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/d2f2001561ff.html",
       "condition": "used"
     },
     {
@@ -1022,14 +1032,6 @@
       "condition": "used"
     },
     {
-      "name": "Grand Caravan SE / SXT2014 Dodge",
-      "vin": "2C4RDGBG9ER117717",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/c5d8519d8f62.html",
-      "condition": "used",
-      "price": 14999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Grand Caravan Canada Value Package2016 Dodge",
       "vin": "2C4RDGBGXGR364571",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/c9124820b35e.html",
@@ -1144,10 +1146,12 @@
       "condition": "used"
     },
     {
-      "name": "Explorer ST 4WD2025 Ford",
-      "vin": "1FMWK8GC9SGC08774",
+      "name": "Pre-Owned Inventoryat North Shore Honda",
+      "vin": "3CZRZ2H54TM100977",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/b7fe6673e5ca.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 35399.0,
+      "price_currency": "CAD"
     },
     {
       "name": "F-150 HYBRID Supercab Lariat - Powerboost2021 Ford",
@@ -1156,10 +1160,12 @@
       "condition": "used"
     },
     {
-      "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
-      "vin": "1FTEW1E84PFB92751",
+      "name": "Pre-Owned Inventoryat North Shore Honda",
+      "vin": "3CZRZ2H54TM100977",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/696a65e9b0af.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 35399.0,
+      "price_currency": "CAD"
     },
     {
       "name": "F-150 Raptor2023 Ford",
@@ -1240,7 +1246,7 @@
       "condition": "used"
     },
     {
-      "name": "Ranger RAPTOR 4WD SuperCrew 5' Box2025 Ford",
+      "name": "Ranger Raptor SuperCrew2025 Ford",
       "vin": "1FTER4LR7SLE00359",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/f7da600d9e73.html",
       "condition": "used"
@@ -1318,12 +1324,6 @@
       "condition": "used"
     },
     {
-      "name": "Acadia AWD Denali2019 GMC",
-      "vin": "1GKKNXLS1KZ117069",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/60b081ba3233.html",
-      "condition": "used"
-    },
-    {
       "name": "Acadia AWD AT42023 GMC",
       "vin": "1GKKNLLS9PZ158730",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/5c7d954f710c.html",
@@ -1376,14 +1376,6 @@
       "vin": "1GTUUHE8XTZ101002",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/f1ac11646e13.html",
       "condition": "used"
-    },
-    {
-      "name": "Sierra 2500 Classic SLE Crew Cab 4WD2007 GMC",
-      "vin": "1GTHK23K97F519187",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/4a7edca2cdf6.html",
-      "condition": "used",
-      "price": 22995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Sierra 3500HD 4WD Crew Cab Medium Box AT42024 GMC",
@@ -2195,6 +2187,12 @@
       "condition": "used"
     },
     {
+      "name": "Wrangler Jl Unlimited Sport2018 Jeep",
+      "vin": "1C4HJXDGXJW104347",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/457afe0becd7.html",
+      "condition": "used"
+    },
+    {
       "name": "Wrangler Jl Unlimited Rubicon2019 Jeep",
       "vin": "1C4HJXFG8KW627817",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/a0451ad56c5e.html",
@@ -2234,12 +2232,6 @@
       "name": "Forte (4) LX - at2016 Kia",
       "vin": "KNAFX4A69G5513600",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/c26449af91c8.html",
-      "condition": "used"
-    },
-    {
-      "name": "Forte Sedan EX IVT2021 Kia",
-      "vin": "3KPF54AD8ME332351",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/9378c1c99c52.html",
       "condition": "used"
     },
     {
@@ -2291,12 +2283,6 @@
       "condition": "used"
     },
     {
-      "name": "Defender HSE- Local, 1 owner2020 Land Rover",
-      "vin": "SALE97EU0L2031136",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/d66c7cd729e4.html",
-      "condition": "used"
-    },
-    {
       "name": "Defender 110 P400 X-Dynamic HSE2021 Land Rover",
       "vin": "SALE37RU6M2046530",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/0b819501f5f0.html",
@@ -2312,12 +2298,6 @@
       "name": "Defender 130 P400 First Edition (2)2023 Land Rover",
       "vin": "SALEVFEU4P2170889",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/00349c036f29.html",
-      "condition": "used"
-    },
-    {
-      "name": "Defender 110 P300 S (2)2023 Land Rover",
-      "vin": "SALEJ7EX0P2175308",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/4c6eda27faf5.html",
       "condition": "used"
     },
     {
@@ -2360,6 +2340,12 @@
       "name": "Defender 110 P400 X-Dynamic SE2024 Land Rover",
       "vin": "SALE27EU1R2288531",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/a9db2fac9524.html",
+      "condition": "used"
+    },
+    {
+      "name": "Defender 110 P300 S2024 Land Rover",
+      "vin": "SALEJ7EX8R2257676",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/5190b77a7b2c.html",
       "condition": "used"
     },
     {
@@ -2456,6 +2442,12 @@
       "name": "Discovery P360 R-Dynamic S (2)2023 Land Rover",
       "vin": "SALRT4EU9P2473159",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/9443cb33dc5c.html",
+      "condition": "used"
+    },
+    {
+      "name": "Discovery P360 R-Dynamic HSE2023 Land Rover",
+      "vin": "SALRM4EU6P2473200",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/cb33f0cfcc45.html",
       "condition": "used"
     },
     {
@@ -2977,12 +2969,6 @@
       "condition": "used"
     },
     {
-      "name": "Quattroporte S Q4 GranLusso2017 Maserati",
-      "vin": "ZAM56RRL7H1197479",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/6eb0e9926383.html",
-      "condition": "used"
-    },
-    {
       "name": "CX-3 GS2020 Mazda",
       "vin": "JM1DKDC70L1462469",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/8b5f8302a642.html",
@@ -3279,14 +3265,6 @@
       "condition": "used"
     },
     {
-      "name": "CLK63 AMG Coupe2007 Mercedes-Benz",
-      "vin": "WDB2093771F222301",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/4a25393aa94b.html",
-      "condition": "used",
-      "price": 46995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "CLS AMG CLS 532022 Mercedes-Benz",
       "vin": "W1K2J6BB3NA107428",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/9b0f23331e95.html",
@@ -3424,12 +3402,6 @@
       "name": "G550 4x42 SUV2018 Mercedes-Benz",
       "vin": "WDCYC5FH6JX290025",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/8505fd96663e.html",
-      "condition": "used"
-    },
-    {
-      "name": "G550 SUV2021 Mercedes-Benz",
-      "vin": "W1NYC6BJ8MX423109",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/ff25d12d235e.html",
       "condition": "used"
     },
     {
@@ -4583,6 +4555,12 @@
       "condition": "used"
     },
     {
+      "name": "Kicks Play S FWD2025 Nissan",
+      "vin": "3N1CP5BV7SL473112",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/28822e392710.html",
+      "condition": "used"
+    },
+    {
       "name": "Kicks SR2019 Nissan",
       "vin": "3N1CP5CU5KL496457",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/fcc52aba2575.html",
@@ -5377,20 +5355,6 @@
       "condition": "used"
     },
     {
-      "name": "Forester 2.5 X at2007 Subaru",
-      "vin": "JF1SG636X7H714873",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/71fb8b2c8742.html",
-      "condition": "used",
-      "price": 5999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Forester Convenience CVT2021 Subaru",
-      "vin": "JF2SKEFC7MH550581",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/602a361771a7.html",
-      "condition": "used"
-    },
-    {
       "name": "Forester Sport 2.5L CVT2024 Subaru",
       "vin": "JF2SKEFC0RH517882",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/a7afbf137159.html",
@@ -5673,6 +5637,12 @@
       "condition": "used"
     },
     {
+      "name": "Impreza Touring CVT2026 Subaru",
+      "vin": "JF1GUAFC8T8251628",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/7d90b04b132f.html",
+      "condition": "used"
+    },
+    {
       "name": "Outback 2.5i Limited w/ Eyesight at2018 Subaru",
       "vin": "4S4BSDNC4J3381344",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/c0f474f20cf9.html",
@@ -5748,6 +5718,12 @@
       "name": "WRX 4Dr Sport-Tech w/ Eyesight CVT2023 Subaru",
       "vin": "JF1VBAN64P8808307",
       "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/89b775e49ef2.html",
+      "condition": "used"
+    },
+    {
+      "name": "WRX 4Dr Sport-Tech w/ Eyesight CVT2023 Subaru",
+      "vin": "JF1VBAN63P8805754",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/43a65845c4df.html",
       "condition": "used"
     },
     {
