@@ -1,6 +1,6 @@
 # North Shore Honda
 
- dealership in North Vancouver. AI-readable inventory mirror, about 1372 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 1370 vehicles.
 
 - Official website: https://www.northshorehonda.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/north-shore-honda-mirror/used/
